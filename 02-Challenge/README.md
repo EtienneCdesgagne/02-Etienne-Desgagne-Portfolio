@@ -31,4 +31,5 @@ Github repo
 
 https://github.com/EtienneCdesgagne/Challenge-2/tree/main
 
-Deployed app
+Deployed app 
+
