@@ -1,3 +1,10 @@
+:root{
+  --pink:pink; 
+  --purple: rgb(107, 3, 226);
+}
+
+var 
+
 * {
   box-sizing: border-box;
   margin: 0;
@@ -6,27 +13,28 @@
 }
 
 body {
-  background-color: pink; 
+  background-color: var(--pink);
   display:flex ;
   flex-direction: column;
+  margin: 0px;
 }
 
 header {display: flex;
   color: pink;
   font-family: Arial,;
   padding: 20px;
-  background-color: rgb(107, 3, 226);
+  background-color: Var(--purple);
   justify-content: space-between;
   
 }
 
-header a {color: pink;
+header a {color: var(--pink);
   text-decoration: none;}
 
 h1 {
   display: flex;
   font-size: 48px;
-  color:pink;
+  color:var(--pink);
   align-items: center;
 }
 
@@ -44,7 +52,7 @@ align-items:center}
 
 header ul {
 display:flex ;
-color: pink; 
+color: var(--pink);
 list-style-type: none;
 float: right;
 }
@@ -88,10 +96,10 @@ max-width: none;}
 }
 
 footer {display: flex;
-  color: pink;
+  color: var(--pink);
   font-family: Arial,;
   padding: 20px;
-  background-color: rgb(107, 3, 226);
+  background-color: Var(--purple)(107, 3, 226);
   justify-content: space-between;
   }
 
