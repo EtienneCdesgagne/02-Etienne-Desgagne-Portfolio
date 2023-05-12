@@ -49,6 +49,7 @@ h3 {display: flex;
   flex-direction: column;
 align-items:center}
 
+h3 img {min-height: 150;}
 
 header ul {
 display:flex ;
@@ -81,8 +82,6 @@ font-size:25px ;}
 
 li {list-style:none;}
 
-h3 img {min-height: 150;}
-
 #cv {max-height: none;
 max-width: none;}
 
@@ -96,6 +95,8 @@ max-width: none;}
   border-color: blueviolet;
   border-style: dashed;
 }
+
+/* Bottom bar */
 
 footer {display: flex;
   color: var(--pink);
