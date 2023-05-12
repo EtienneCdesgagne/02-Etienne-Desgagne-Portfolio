@@ -9,10 +9,10 @@ body {
   background-color: pink; 
   display:flex ;
   flex-direction: column;
-
 }
 
 header {display: flex;
+  color: pink;
   font-family: Arial,;
   padding: 20px;
   background-color: rgb(107, 3, 226);
@@ -20,12 +20,27 @@ header {display: flex;
   
 }
 
-header h1 {
+header a {color: pink;
+  text-decoration: none;}
+
+h1 {
   display: flex;
   font-size: 48px;
   color:pink;
   align-items: center;
 }
+
+h2 {font-size: 32px;
+  max-width: 15%;
+  min-width: 15%;
+  
+}
+
+h3 {display: flex;
+  width: 70%;
+  flex-direction: column;
+align-items:center}
+
 
 header ul {
 display:flex ;
@@ -39,5 +54,56 @@ header ul li{
   font-size: 32px;
 }
 
-a {color: pink;
-  text-decoration: none;}
+section {display: flex;
+margin: 10px 5px 0px 10px ;
+min-height: 300px;}
+
+section img {max-width: 300px; max-height: 300px;
+padding: 0px 5px 0px 5px; 
+}
+
+.Boxes { align-items: center;
+border-width: 5px;
+min-width: 20%;
+border-style: solid;
+border-color: rgb(7, 160, 160);
+font-size:25px ;}
+
+li {list-style:none;}
+
+h3 img {min-height: 150;}
+
+#cv {max-height: none;
+max-width: none;}
+
+.img-link{padding: 0px;
+  max-width:99%;
+  opacity: 0.6 ;}
+
+.img-link:hover {
+  opacity: 1;
+  border: 3px;
+  border-color: blueviolet;
+  border-style: dashed;
+}
+
+footer {display: flex;
+  color: pink;
+  font-family: Arial,;
+  padding: 20px;
+  background-color: rgb(107, 3, 226);
+  justify-content: space-between;
+  }
+
+footer ul {display: flex;
+flex-direction: row;
+font-size: 24px;}
+
+footer ul li {margin: 0px 70px 0px 70px;
+display: flex;
+align-items:center;
+}
+
+footer a {font-size: 20px;
+  text-decoration: none;
+  color: rgb(0, 250, 0);}
