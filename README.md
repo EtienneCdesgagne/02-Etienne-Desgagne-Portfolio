@@ -25,8 +25,6 @@ NA
 
 Link to github repository
 
-Well aware it doesnt scale well with screen size 
-
 ## Links
 
 Github repo
