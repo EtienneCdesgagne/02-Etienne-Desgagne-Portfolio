@@ -35,5 +35,5 @@ https://github.com/EtienneCdesgagne/Challenge-2/tree/main
 
 Deployed app 
 
-https://etiennecdesgagne.github.io/Challenge-2/
+https://etiennecdesgagne.github.io/02-Etienne-Desgagne-Portfolio
 
