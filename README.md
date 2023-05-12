@@ -31,7 +31,7 @@ Well aware it doesnt scale well with screen size
 
 Github repo
 
-https://github.com/EtienneCdesgagne/Challenge-2/tree/main
+https://github.com/EtienneCdesgagne/02-Etienne-Desgagne-Portfolio
 
 Deployed app 
 
