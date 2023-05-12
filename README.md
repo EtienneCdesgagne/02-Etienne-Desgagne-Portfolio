@@ -9,6 +9,8 @@ Containing:
     a photo of myself
     How to contact me
     links to my previous work
+    
+    ![Personal portfolio deployed](https://github.com/EtienneCdesgagne/Challenge-2/assets/127253511/b44736d2-55b1-406f-a12b-747e5f1639e3)
 
 ## Installation 
 
